@@ -1,0 +1,36 @@
+Name,RecType,C1,C2,C3,C4,B1,B2,B3,B4,B5,B6,B7,B8,B9,B10,B11,B12,B13,B14,B15,I1,I2,I3,I4,L1,L2,L3,L4,FinYrs
+Admin,9,M04-06-11,Display --> Outstanding Analysis --> Bill-wise Statement,Bill-wise Statement,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,49,0,0,0,0,0,0,0,1899-12-30
+Chamal,9,M04-06-11,Display --> Outstanding Analysis --> Bill-wise Statement,Bill-wise Statement,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,49,0,0,0,0,0,0,0,1899-12-30
+Thusharas,8,M04-03,Display --> Account Books,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,1899-12-30
+Sahan,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Sahan,7,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Chamal,1,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Chamal,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,9,1,0,1,1,0,0,0,2020-04-01
+Chamal,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,5,10,0,2,1,0,0,0,2020-04-01
+Chamal,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,6,10,0,3,1,0,0,0,2020-04-01
+Chamal,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,2,10,0,4,1,0,0,0,2020-04-01
+Chamal,7,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Suzan,1,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Suzan,7,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Thusharas,1,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Thusharas,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,9,1,0,0,1,0,0,0,2020-04-01
+Thusharas,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,2,5,0,0,1,0,0,0,2020-04-01
+Thusharas,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,5,5,0,0,1,0,0,0,2020-04-01
+Thusharas,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,8,7,0,0,1,0,0,0,2020-04-01
+Thusharas,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,3,3,0,0,1,0,0,0,2020-04-01
+Thusharas,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,6,35,0,0,1,0,0,0,2020-04-01
+Thusharas,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,13,5,0,0,1,0,0,0,2020-04-01
+Thusharas,7,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Dushan,1,,,,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Dushan,7,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+NADEESHANI,1,,,,,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+NADEESHANI,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,19,20,0,1,1,0,0,0,2020-04-01
+NADEESHANI,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,14,180,0,2,1,0,0,0,2020-04-01
+NADEESHANI,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,16,20,0,3,1,0,0,0,2020-04-01
+NADEESHANI,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,17,20,0,4,1,0,0,0,2020-04-01
+NADEESHANI,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,18,20,0,5,1,0,0,0,2020-04-01
+NADEESHANI,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,15,20,0,6,1,0,0,0,2020-04-01
+NADEESHANI,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,2,20,0,7,1,0,0,0,2020-04-01
+NADEESHANI,7,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Admin,1,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
+Admin,7,,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,2020-04-01
