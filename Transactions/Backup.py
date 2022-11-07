@@ -1,22 +1,17 @@
 from datetime import datetime
+
 from supabase import create_client
 import uuid
 import json
 import pandas as pd
-from dotenv import load_dotenv
-import os
+
+API_URL = 'https://qemtgmilflgbhgrhnmdx.supabase.co'
+API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFlbXRnbWlsZmxnYmhncmhubWR4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY2NjI0ODUyOCwiZXhwIjoxOTgxODI0NTI4fQ.E9ZkTW2dKolRSTjMSlAbFBbkbbKf-huq8WAzzOy5GlM'
+supabase = create_client(API_URL, API_KEY)
+print(supabase)
 
 # show all columns in df head
 pd.set_option('display.max_columns', None)
-
-# Supabase Client
-load_dotenv()
-
-API_URL = os.getenv("API_URL")
-API_KEY = os.getenv("API_KEY")
-supabase = create_client(API_URL, API_KEY)
-
-# if __name__ == "__main__":
 
 
 def getTran1Data(id: int, columnlist: list):
@@ -139,7 +134,7 @@ def Sales_Order(id: int, tran1ColumnList=None, master1ColumnList=None, tran2Colu
     """
     *
     ** Now we have All the data needed.
-    
+
     1. Get Data from Tran1
     2. Find User Name from MasterFootPrint
     3. Find Items from Tran2
@@ -354,7 +349,7 @@ def Sales_Order(id: int, tran1ColumnList=None, master1ColumnList=None, tran2Colu
             df.at[index, 'mastertype'] = dfMasterRow.iloc[0].mastertype
 
         # print(df)
-        
+
         """
 
     timeNew = datetime.now()
